@@ -1,0 +1,15 @@
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\bin\Debug\Game Solitaire.exe.config
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\bin\Debug\Game Solitaire.exe
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\bin\Debug\Game Solitaire.pdb
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.csprojResolveAssemblyReference.cache
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game_Solitaire.Properties.Resources.resources
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.csproj.GenerateResource.Cache
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.exe
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.pdb
+F:\CODE_VSEVOLOD\Project Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game_Solitaire.MenuForm.resources
+F:\CODE_VSEVOLOD\Project Solitaire\sfml_test\build\Game Solitaire.exe.config
+F:\CODE_VSEVOLOD\Project Solitaire\sfml_test\build\Game Solitaire.exe
+F:\CODE_VSEVOLOD\Project Solitaire\sfml_test\build\Game Solitaire.pdb
+C:\Users\sevaf\Desktop\FOLDERS\Глускер - или как написать сайт за 40 часов\other\Game Solitaire\sfml_test\build\Game Solitaire.exe.config
+C:\Users\sevaf\Desktop\FOLDERS\Глускер - или как написать сайт за 40 часов\other\Game Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.exe
+C:\Users\sevaf\Desktop\FOLDERS\Глускер - или как написать сайт за 40 часов\other\Game Solitaire\Game Solitaire\Game Solitaire\obj\Debug\Game Solitaire.pdb
